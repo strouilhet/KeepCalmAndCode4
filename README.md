@@ -1,6 +1,7 @@
 # KeepCalmAndCode4
-<img src="images/kcc.png" alt="Logo" width="200"/>
-Qualité de développement - Tests
+
+# Qualité de développement - Tests
+<img src="images/kcc.png" alt="Logo" width="100"/>
 
 Spécifications des projets :
 - génération de numéros de ticket gagnant
